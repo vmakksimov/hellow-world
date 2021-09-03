@@ -1,3 +1,2 @@
 # hellow-world
-
-This is my second one.
+This is my first project.
